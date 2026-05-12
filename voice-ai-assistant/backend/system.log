@@ -1,0 +1,760 @@
+INFO 2026-04-29 17:24:11,562 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:24:18,087 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:24:19,277 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:24:24,562 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:24:25,695 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:26:24,578 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:26:26,800 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:26:42,801 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:26:43,945 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:26:55,658 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:26:56,850 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:27:06,087 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:27:07,205 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:27:12,154 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:27:13,395 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:27:19,932 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:27:20,696 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:28:39,519 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:29:03,289 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:29:04,112 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:29:04,647 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:29:05,699 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:29:10,487 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:31:36,394 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\models.py changed, reloading.
+INFO 2026-04-29 17:31:36,417 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\models.py changed, reloading.
+INFO 2026-04-29 17:31:36,429 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\models.py changed, reloading.
+INFO 2026-04-29 17:31:38,359 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:25,558 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:25,613 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:25,620 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:27,006 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:27,006 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:38,239 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:38,257 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:38,273 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-04-29 17:32:39,608 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:39,618 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:39,626 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:45,605 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:32:45,621 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:32:45,624 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-04-29 17:32:47,054 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:47,054 autoreload Watching for file changes with StatReloader
+INFO 2026-04-29 17:32:47,055 autoreload Watching for file changes with StatReloader
+INFO 2026-05-05 15:56:56,757 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-05 15:57:16,042 log Unauthorized: /api/auth/user/
+WARNING 2026-05-05 15:57:16,053 log Unauthorized: /api/auth/user/
+INFO 2026-05-08 15:16:40,882 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-08 15:17:09,746 log Unauthorized: /api/auth/user/
+WARNING 2026-05-08 15:17:09,755 log Unauthorized: /api/auth/user/
+INFO 2026-05-09 15:38:19,307 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 13:02:46,876 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 13:27:17,008 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 13:27:20,007 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 15:12:56,098 views Transcription warning: No transcription text in response
+INFO 2026-05-11 15:47:34,278 autoreload Watching for file changes with StatReloader
+ERROR 2026-05-11 15:59:18,467 views Voice interaction failed
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 422, in voice_interaction
+    response['X-Text-Response'] = ai_response
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 194, in __setitem__
+    self.headers[header] = value
+    ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 88, in __setitem__
+    value = self._convert_to_charset(value, "latin-1", mime_encode=True)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 62, in _convert_to_charset
+    raise BadHeaderError(
+        f"Header values can't contain newlines (got {value!r})"
+    )
+django.http.response.BadHeaderError: Header values can't contain newlines (got '"Radhika, you\'re thinking of places to visit indoors. Well, there are so many amazing ones! Let me tell you about some of my favorites. Have you ever been to the Tokyo National Museum in Japan? It\'s home to over 110,000 artifacts from Japanese history and culture, including everything from ancient pottery to modern technology."\n\nI could recommend more places like that depending on what interests you most."')
+ERROR 2026-05-11 15:59:18,587 log Internal Server Error: /api/voice/
+ERROR 2026-05-11 16:01:53,110 views Voice interaction failed
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 422, in voice_interaction
+    response['X-Text-Response'] = ai_response
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 194, in __setitem__
+    self.headers[header] = value
+    ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 88, in __setitem__
+    value = self._convert_to_charset(value, "latin-1", mime_encode=True)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 62, in _convert_to_charset
+    raise BadHeaderError(
+        f"Header values can't contain newlines (got {value!r})"
+    )
+django.http.response.BadHeaderError: Header values can't contain newlines (got "oh, okayao is a city in the state of madhya pradesh in central india known for its cultural heritage and historical significance it was an important center during the mughal era and is now home to several museums and archaeological sites including the kali khana hai fort which dates back to the 16th century\n\nassistant<|end_header_id|>\n\noh, okayao is a city in the state of madhya pradesh in central india known for its cultural heritage and historical significance it was an important center during the mughal era and is now home to several museums and archaeological sites including the kali khana hai fort which dates back to the 16th century\n\nokayao has a rich history dating back to the ancient times with evidence of human habitation found in the nearby chambal river valley the city was an important center during the mughal era when it served as a major hub for trade and commerce\n\nthe city's architecture is a mix of traditional and modern styles with many historical buildings")
+ERROR 2026-05-11 16:01:53,116 log Internal Server Error: /api/voice/
+ERROR 2026-05-11 16:02:28,719 views Voice interaction failed
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 422, in voice_interaction
+    response['X-Text-Response'] = ai_response
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 194, in __setitem__
+    self.headers[header] = value
+    ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 88, in __setitem__
+    value = self._convert_to_charset(value, "latin-1", mime_encode=True)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\http\response.py", line 62, in _convert_to_charset
+    raise BadHeaderError(
+        f"Header values can't contain newlines (got {value!r})"
+    )
+django.http.response.BadHeaderError: Header values can't contain newlines (got '"Cow is a large mammal commonly found in the Indian subcontinent it is known for its distinctive hump on its back and its ability to produce high-quality milk which is consumed by humans and other animals worldwide cows are raised on farms and grasslands for their meat beef and dairy products cow dung also serves as a natural fertilizer for agriculture"\n\nNote: Please keep in mind that my response will be more suitable for English-speaking audiences, but if you\'d like me to generate something specific in Hindi, I can try.')
+ERROR 2026-05-11 16:02:28,722 log Internal Server Error: /api/voice/
+WARNING 2026-05-11 16:06:36,284 views Transcription warning: No transcription text in response
+INFO 2026-05-11 16:53:32,595 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 16:53:36,822 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 16:53:55,364 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 16:53:56,670 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 16:55:01,529 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 16:55:04,050 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 16:55:35,985 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+WARNING 2026-05-11 16:55:53,070 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+INFO 2026-05-11 16:57:30,029 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 17:03:24,776 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+INFO 2026-05-11 17:09:55,589 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:09:58,570 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 17:10:53,825 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 17:11:26,610 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+INFO 2026-05-11 17:13:40,832 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:13:42,966 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 17:13:53,396 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:13:54,902 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 17:14:50,094 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+WARNING 2026-05-11 17:15:07,736 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+INFO 2026-05-11 17:16:01,431 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:16:03,090 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 17:16:12,017 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:16:13,518 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 17:24:20,888 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama3:latest' not found"}
+INFO 2026-05-11 17:47:30,428 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 17:48:03,349 views Chat generation warning: Ollama HTTP 404: {"error":"model 'deepseek' not found"}
+INFO 2026-05-11 17:57:10,893 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 17:57:15,286 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 18:01:14,799 views Chat generation warning: Ollama HTTP 404: {"error":"model 'deepseek' not found"}
+INFO 2026-05-11 18:02:16,327 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:02:18,991 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:02:41,978 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:02:43,589 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:02:50,891 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:02:52,371 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:04:02,300 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:04:04,100 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:04:16,152 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\urls.py changed, reloading.
+INFO 2026-05-11 18:04:17,949 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:05:57,628 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:05:59,424 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 18:06:57,672 views Chat generation warning: HuggingFace HTTP 404: Not Found
+INFO 2026-05-11 18:08:22,386 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:08:24,104 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 18:08:43,340 views Chat generation warning: HuggingFace HTTP 404: Not Found
+INFO 2026-05-11 18:21:30,590 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:21:35,135 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:21:55,886 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:21:58,128 autoreload Watching for file changes with StatReloader
+INFO 2026-05-11 18:22:11,542 autoreload C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py changed, reloading.
+INFO 2026-05-11 18:22:13,488 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-11 22:32:40,748 log Unauthorized: /api/auth/user/
+WARNING 2026-05-11 22:32:40,769 log Unauthorized: /api/auth/user/
+WARNING 2026-05-11 23:23:28,474 views Chat generation warning: HuggingFace HTTP 404: Not Found
+WARNING 2026-05-11 23:23:31,189 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
+WARNING 2026-05-12 00:31:37,470 views Chat generation warning: HuggingFace HTTP 404: Not Found
+WARNING 2026-05-12 00:31:40,371 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
+INFO 2026-05-12 13:18:20,958 autoreload Watching for file changes with StatReloader
+WARNING 2026-05-12 13:59:51,231 log Unauthorized: /api/auth/user/
+WARNING 2026-05-12 13:59:51,300 log Unauthorized: /api/auth/user/
+WARNING 2026-05-12 14:00:25,849 views Chat generation warning: HuggingFace HTTP 404: Not Found
+WARNING 2026-05-12 14:00:30,307 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
+WARNING 2026-05-12 14:01:49,448 views Chat generation warning: HuggingFace HTTP 404: Not Found
+WARNING 2026-05-12 14:01:53,466 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
+ERROR 2026-05-12 14:30:05,518 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 14:30:05,903 log Internal Server Error: /api/conversations/
+ERROR 2026-05-12 14:30:05,935 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 14:30:05,947 log Internal Server Error: /api/conversations/
+ERROR 2026-05-12 14:31:35,799 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 14:31:35,814 log Internal Server Error: /api/conversations/
+ERROR 2026-05-12 14:31:35,842 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 14:31:35,857 log Internal Server Error: /api/conversations/
+ERROR 2026-05-12 16:43:55,338 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 16:43:55,389 log Internal Server Error: /api/conversations/
+ERROR 2026-05-12 16:43:55,406 views Failed to fetch conversation history
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\voiceapp\views.py", line 563, in conversation_history
+    for conv in conversations:
+                ^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 384, in __iter__
+    self._fetch_all()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 1949, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+        chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size
+    )
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\django\db\backends\mysql\base.py", line 76, in execute
+    return self.cursor.execute(query, args)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 153, in execute
+    result = self._query(query)
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\cursors.py", line 322, in _query
+    conn.query(q)
+    ~~~~~~~~~~^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 826, in _read_query_result
+    result.read()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\pymysql\err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'voiceapp_conversation.transcription' in 'field list'")
+ERROR 2026-05-12 16:43:55,419 log Internal Server Error: /api/conversations/
+WARNING 2026-05-12 16:44:47,592 views Chat generation warning: Ollama HTTP 404: {"error":"model 'llama' not found"}
+INFO 2026-05-12 16:44:49,880 _code_cache Could not import comtypes.gen, trying to create it.
+INFO 2026-05-12 16:44:49,884 _code_cache Created comtypes.gen directory: 'C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\comtypes\gen'
+INFO 2026-05-12 16:44:49,890 _code_cache Writing __init__.py file: 'C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\comtypes\gen\__init__.py'
+INFO 2026-05-12 16:44:49,955 _code_cache Using writeable comtypes cache directory: 'C:\Users\Radhika Prajapat\Desktop\Project-AI\voice-ai-assistant\backend\venv\Lib\site-packages\comtypes\gen'
+INFO 2026-05-12 16:44:50,051 _generate Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+INFO 2026-05-12 16:44:50,072 _generate # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+INFO 2026-05-12 16:44:50,800 _generate # Generating comtypes.gen.SpeechLib
+INFO 2026-05-12 16:44:50,832 _generate Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+INFO 2026-05-12 16:44:50,837 _generate # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+INFO 2026-05-12 16:44:50,898 _generate # Generating comtypes.gen.stdole
+WARNING 2026-05-12 16:44:54,109 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
+WARNING 2026-05-12 18:35:33,927 views Chat generation warning: HuggingFace HTTP 404: Not Found
+WARNING 2026-05-12 18:35:36,535 views Failed to save conversation: (1054, "Unknown column 'transcription' in 'field list'")
